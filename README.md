@@ -17,11 +17,6 @@ A simple weather application that fetches real-time weather data using OpenWeath
 
 ---
 
-## 📸 Preview
-![Weather App Preview](screenshots/weather-preview.png)
-![Weather App Preview 2](screenshots/weather-preview%20(2).png)
-
----
 
 ## 🛠️ Technologies Used
 - HTML5
