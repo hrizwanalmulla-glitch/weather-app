@@ -32,7 +32,7 @@ The app sends a request to the OpenWeather API and dynamically updates the DOM w
 ---
 
 ## 🌐 Live Demo
-[Click here to view live app](Add-your-Vercel-link-here)
+[Click here to view live app](weather-app-aqax8bymm-hrizwanalmulla-glitchs-projects.vercel.app)
 
 ---
 
