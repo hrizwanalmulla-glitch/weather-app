@@ -2,8 +2,9 @@
 
 A simple weather application that fetches real-time weather data using OpenWeather API.
 
-## 🚀 Features
+---
 
+## 🚀 Features
 - Search weather by city name
 - Displays:
   - Temperature
@@ -14,30 +15,26 @@ A simple weather application that fetches real-time weather data using OpenWeath
 - Error handling for invalid cities
 - Built using Vanilla JavaScript (No frameworks)
 
-## 📸 Preview
+---
 
-![App Screenshot](screenshots/weather-preview.png)
 
 ## 🛠️ Technologies Used
-
 - HTML5
 - CSS3
 - JavaScript (Fetch API)
 - OpenWeather API
 
-## 📦 How It Works
+---
 
+## 📦 How It Works
 The app sends a request to the OpenWeather API and dynamically updates the DOM with live weather data.
 
-## 🌐 Live Demo
-
-(Add your Vercel link here after deployment)
+---
 
 ## 📂 Project Setup
-
-1. Clone the repository
-2. Add your API key inside `config.js`
-3. Open `index.html` in browser
+1. Clone the repository  
+2. Add your API key inside `config.js`  
+3. Open `index.html` in browser  
 
 ---
 
