@@ -61,9 +61,7 @@ h1, h2, p {
    background-color: #1aa6c5;
 }
 
-.weather img {
-  width:100px;
-}
+
 
 .hidden {
   display:none;
@@ -76,18 +74,5 @@ h1, h2, p {
   text-shadow: 0 5px 15px rgba(0,0,0,0.4);
 }
 
-.weather-image {
-    margin-top: 15px;
-    display: flex;
-    justify-content: center;
-}
 
-.weather-image img {
-    width: 50%;          
-    height: 140px;      
-    object-fit: cover;
-    border-radius: 12px;
-    display: none;
-    transition: 0.3s ease;
-}
 
